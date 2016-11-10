@@ -1,1 +1,14 @@
 this is confusing
+that is right
+
+uploading data
+	local: edit and save
+	git add
+	git commit
+	git push
+
+downloading data
+	creat new file
+	git pull
+
+
