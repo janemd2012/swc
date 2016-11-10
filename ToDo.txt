@@ -1,3 +1,5 @@
 2016_11_10
 
 Today I am learning the Git to edit the file.
+
+learn how to use status
