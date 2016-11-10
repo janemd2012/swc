@@ -1,7 +1,1 @@
-2016_11_10
-
-Today I am learning the Git to edit the file.
-
-learn how to use status
-
-git add is the first step
+sorry for all these changes
