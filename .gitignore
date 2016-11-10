@@ -1,0 +1,8 @@
+a.dat
+b.dat
+c.dat
+
+temp_data/this_should_be_ignored.txt
+*.dat
+
+*.kkk
